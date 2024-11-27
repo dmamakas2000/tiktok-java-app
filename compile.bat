@@ -1,0 +1,1 @@
+javac -d ./build -cp ./jars/*.jar ./src/*.java
