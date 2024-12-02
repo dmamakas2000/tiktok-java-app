@@ -55,4 +55,19 @@ We suggest using the project's parent directory to save the videos you want to e
  |_ README.md
  |_ video.mp4
  |_ anotherVideo.mp4
+
 ```
+## Directory Structure
+```
+tiktok-java-app/
+│
+├── jars/                          # JAR files for dependencies and compiled code
+│
+├── src/                           # Source code for the application
+│   ├── main/                      # Core application logic
+│   ├── test/                      # Unit tests
+│   └── resources/                 # Configuration and additional resources
+```
+
+## License
+This project is licensed under the **MIT License** - see the **[LICENSE](LICENSE)** file for details.
